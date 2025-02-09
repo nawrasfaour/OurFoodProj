@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" version="26.0.8">
   <diagram name="Page-1" id="c4rcQlF6rWE2pEnYZoLN">
-    <mxGraphModel dx="916" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="469" dy="221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,11 +35,8 @@
         <mxCell id="rm8E94z--C5_kuMlvCXG-12" value="ניהול לקוחות" style="text;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="80" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rm8E94z--C5_kuMlvCXG-13" value="ניהול לקוחות" style="text;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="110" width="95" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="rm8E94z--C5_kuMlvCXG-14" value="ניהול מלאי" style="text;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="140" width="95" height="30" as="geometry" />
+          <mxGeometry x="290" y="110" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rm8E94z--C5_kuMlvCXG-15" value="יציאה" style="text;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="180" width="95" height="30" as="geometry" />
@@ -90,13 +87,16 @@
           <mxGeometry x="290" y="530" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rm8E94z--C5_kuMlvCXG-29" value="&lt;b&gt;מסך מנהל מערכת&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="40" width="170" height="320" as="geometry" />
+          <mxGeometry x="470" y="40" width="170" height="400" as="geometry" />
         </mxCell>
         <mxCell id="rm8E94z--C5_kuMlvCXG-30" value="ניהול מלאי" style="text;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="560" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rm8E94z--C5_kuMlvCXG-32" value="&lt;b&gt;&lt;u&gt;ניהול מלאי&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;[State1, State2...]" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="500" y="80" width="100" height="60" as="geometry" />
+        <mxCell id="rm8E94z--C5_kuMlvCXG-32" value="&lt;b&gt;&lt;u&gt;ניהול מלאי&lt;br&gt;&lt;/u&gt;&lt;/b&gt;הוספה()&lt;div&gt;הורדה()&lt;/div&gt;&lt;div&gt;צפיה()&lt;/div&gt;&lt;div&gt;עיקוב()&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rm8E94z--C5_kuMlvCXG-34" value="&lt;b&gt;&lt;u&gt;ניהול לקוחות&lt;br&gt;&lt;/u&gt;&lt;/b&gt;מחיקה()&lt;div&gt;צפיה()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;rounded=0;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="100" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
