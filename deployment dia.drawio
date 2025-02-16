@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" version="26.0.14">
   <diagram name="Page-1" id="FVMDrm11FqmY5mwUxcbf">
-    <mxGraphModel dx="448" dy="211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="130" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0jCtsFTJbqLTCcz20e-4-5" value="web server" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="500" y="67.5" width="150" height="171" as="geometry" />
+          <mxGeometry x="500" y="67.5" width="150" height="192.5" as="geometry" />
         </mxCell>
         <mxCell id="0jCtsFTJbqLTCcz20e-4-7" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="70" width="80" height="26" as="geometry" />
@@ -89,10 +89,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0jCtsFTJbqLTCcz20e-4-65" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;website_api" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="510" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="510" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0jCtsFTJbqLTCcz20e-4-66" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;mySQL_server" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="510" y="126" width="120" height="40" as="geometry" />
+        <mxCell id="0jCtsFTJbqLTCcz20e-4-67" value="&amp;lt;&amp;lt;database&amp;gt;&amp;gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="104" width="120" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="0jCtsFTJbqLTCcz20e-4-66" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;mySQL_server" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="134.5" width="95" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
