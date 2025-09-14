@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 OPR/121.0.0.0" version="28.2.1">
   <diagram name="Page-1" id="fBuCATGQiqZ7k0NwCbKT">
-    <mxGraphModel dx="625" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1111" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,27 +11,24 @@
           <mxGeometry x="308" y="345" width="235" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6NXibML5-8cHrbDez542-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6NXibML5-8cHrbDez542-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6NXibML5-8cHrbDez542-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="485" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6NXibML5-8cHrbDez542-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.149;exitY=-0.034;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.701;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6NXibML5-8cHrbDez542-5" target="6NXibML5-8cHrbDez542-1" edge="1">
+        <mxCell id="6NXibML5-8cHrbDez542-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.92;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6NXibML5-8cHrbDez542-5" target="6NXibML5-8cHrbDez542-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="580" as="sourcePoint" />
-            <mxPoint x="470" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6NXibML5-8cHrbDez542-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="580" as="sourcePoint" />
-            <mxPoint x="540" y="580" as="targetPoint" />
+            <mxPoint x="575" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="466" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6NXibML5-8cHrbDez542-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="6NXibML5-8cHrbDez542-1" edge="1">
@@ -43,65 +40,59 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.636;exitY=0.015;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="6NXibML5-8cHrbDez542-1" target="6NXibML5-8cHrbDez542-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="370" as="sourcePoint" />
-            <mxPoint x="470" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6NXibML5-8cHrbDez542-4" edge="1">
+        <mxCell id="6NXibML5-8cHrbDez542-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.945;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6NXibML5-8cHrbDez542-4" edge="1" target="6NXibML5-8cHrbDez542-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="370" as="sourcePoint" />
             <mxPoint x="480" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="360" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.283;exitY=0.062;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6NXibML5-8cHrbDez542-1" target="6NXibML5-8cHrbDez542-3" edge="1">
+        <mxCell id="6NXibML5-8cHrbDez542-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.001;entryY=0.461;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6NXibML5-8cHrbDez542-3" target="6NXibML5-8cHrbDez542-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="370" as="sourcePoint" />
-            <mxPoint x="470" y="320" as="targetPoint" />
+            <mxPoint x="290" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="400" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6NXibML5-8cHrbDez542-3" target="6NXibML5-8cHrbDez542-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="370" as="sourcePoint" />
-            <mxPoint x="470" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;לקוח רשום-&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="290" y="135" width="60" height="30" as="geometry" />
+        <mxCell id="6NXibML5-8cHrbDez542-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;לקוח E2 רשום-&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6NXibML5-8cHrbDez542-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;E1 הנהלה&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="615" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;paypal&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="6NXibML5-8cHrbDez542-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;E4 paypal&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="605" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-18" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;-לקוח&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;לא רשום&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="135" width="60" height="30" as="geometry" />
+        <mxCell id="6NXibML5-8cHrbDez542-18" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;-לקוח E3&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;לא רשום&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="205" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-19" value="(3)&amp;nbsp; ביומטריה ופרטי הזמנה" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="248" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="6NXibML5-8cHrbDez542-19" value="&lt;p data-pm-slice=&quot;0 0 []&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;F17 פרטי קטגוריה&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="315" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-20" value="(5) פרטי תשלום" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="510" width="60" height="30" as="geometry" />
+        <mxCell id="6NXibML5-8cHrbDez542-20" value="&lt;font style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;פרטי עסקה,חשבונית&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="500" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-21" value="(5) פרטי הזמנה ומעקב" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="210" width="60" height="30" as="geometry" />
+        <mxCell id="6NXibML5-8cHrbDez542-21" value="&lt;font style=&quot;font-size: 10px; background-color: light-dark(rgb(240, 240, 240), rgb(237, 237, 237));&quot;&gt;גישה לאתר,מעקב הזמנה&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="260" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-22" value="(6) אישור תשלום" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="425" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="6NXibML5-8cHrbDez542-22" value="&lt;p data-pm-slice=&quot;0 0 []&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;F34 סטטוס הזמנה&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6NXibML5-8cHrbDez542-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;פרטי קטגוריה ופריט ,F1 F2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="450" width="58" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;תצוגת תפריט(F1 F2)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="575" width="60" height="30" as="geometry" />
+        <mxCell id="6NXibML5-8cHrbDez542-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;תפריט(F1,F2)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="590" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-25" value="(1)ביומטריה" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="230" width="60" height="30" as="geometry" />
+        <mxCell id="6NXibML5-8cHrbDez542-25" value="&lt;p data-pm-slice=&quot;0 0 []&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;F8 פרטי הודעות&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6NXibML5-8cHrbDez542-26" value="(2)תוכנית תזונה" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="425" y="210" width="60" height="30" as="geometry" />
+        <mxCell id="6NXibML5-8cHrbDez542-26" value="&lt;p data-pm-slice=&quot;0 0 []&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;F9 פרטי קטגוריה&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="285" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YAOvyaY89fC74-5WQv9k-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.18;entryY=0.904;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6NXibML5-8cHrbDez542-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -124,17 +115,83 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAOvyaY89fC74-5WQv9k-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.019;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.228;exitY=0.929;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="6NXibML5-8cHrbDez542-6">
+        <mxCell id="YAOvyaY89fC74-5WQv9k-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;רשימת דוחות (F15 F36)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YAOvyaY89fC74-5WQv9k-8" value="&lt;p data-pm-slice=&quot;0 0 []&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;F18,F19 פרטי משתמש+אישור הרשמה&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="198" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAOvyaY89fC74-5WQv9k-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.009;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6NXibML5-8cHrbDez542-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="398" y="518" as="sourcePoint" />
-            <mxPoint x="308" y="635" as="targetPoint" />
+            <mxPoint x="192" y="250" as="sourcePoint" />
+            <mxPoint x="320" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="398" y="634" />
+              <mxPoint x="192" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAOvyaY89fC74-5WQv9k-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;תצוגת דוחות (F15 F36)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="630" width="120" height="40" as="geometry" />
+        <mxCell id="YAOvyaY89fC74-5WQv9k-10" value="&lt;p data-pm-slice=&quot;0 0 []&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;F31,F32 פרטי,אישור הזמנה,אישור תשלום F33&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAOvyaY89fC74-5WQv9k-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.009;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6NXibML5-8cHrbDez542-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="202" y="250" as="sourcePoint" />
+            <mxPoint x="320" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="202" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YAOvyaY89fC74-5WQv9k-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.987;entryY=0.292;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6NXibML5-8cHrbDez542-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="250" as="sourcePoint" />
+            <mxPoint x="550" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YAOvyaY89fC74-5WQv9k-13" value="&lt;font style=&quot;font-size: 10px; background-color: light-dark(rgb(232, 232, 232), rgb(237, 237, 237));&quot;&gt;גישה חלקית לאתר&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAOvyaY89fC74-5WQv9k-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.86;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6NXibML5-8cHrbDez542-1" target="6NXibML5-8cHrbDez542-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="330" as="sourcePoint" />
+            <mxPoint x="320" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="330" />
+              <mxPoint x="270" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YAOvyaY89fC74-5WQv9k-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6NXibML5-8cHrbDez542-1" target="6NXibML5-8cHrbDez542-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="577" y="373" as="sourcePoint" />
+            <mxPoint x="500" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="517" y="316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YAOvyaY89fC74-5WQv9k-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.405;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6NXibML5-8cHrbDez542-1" target="6NXibML5-8cHrbDez542-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="467" y="683" as="sourcePoint" />
+            <mxPoint x="390" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="510" />
+              <mxPoint x="400" y="610" />
+              <mxPoint x="390" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YAOvyaY89fC74-5WQv9k-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6NXibML5-8cHrbDez542-1" target="6NXibML5-8cHrbDez542-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="584" as="sourcePoint" />
+            <mxPoint x="516" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="513" y="576" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
